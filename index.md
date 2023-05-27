@@ -112,17 +112,17 @@ house: active
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="/1.jpg" alt="First slide">
+      <img class="d-block w-100" src="/assets/1.jpg" alt="Tổng kết năm học lớp 10B">
 	   <div class="carousel-caption d-none d-md-block">
     <h5>Welcome to {{ site.title }}</h5>
     <p>{{ site.description }}</p>
   </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="/2.jpg" alt="Second slide">
+      <img class="d-block w-100" src="/assets/2.jpg" alt="Sinh nhật thầy Toàn #11B">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="/3.jpg" alt="Third slide">
+      <img class="d-block w-100" src="/assets/3.jpg" alt="Chuyến đi trải nghiệm #11B">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -138,7 +138,7 @@ house: active
    <div class="row marketing" style="display:block">
         <div>
           <h4><strong><i class="fas fa-question-circle"></i> Đây là gì?</strong></h4>
-<p>Chào mừng đến với cổng thông tin điện tử dành cho học sinh C4K60! Trang web này là công cụ để tra cứu dễ dàng các thông tin của lớp 11 Nga THPT Chuyên Hà Nam</p>
+<p>Chào mừng đến với cổng thông tin điện tử dành cho học sinh BK25NKC! Trang web này là công cụ để tra cứu dễ dàng các thông tin của lớp B khóa 25 THPT Nam Khoái Châu (Khoái Châu 2)</p>
 <h4><strong><i class="fas fa-bullhorn"></i> Thông báo lớp</strong></h4>
 <div class="content list">
 {% if site.categories.thongbaolop.size == 1 %}
@@ -938,37 +938,21 @@ setTimeout(b34, 1);
 <p>Tất nhiên rồi! Miễn phì từ nay và mãi mãi về sau! Tuy nhiên nếu bạn muốn ủng hộ người lập trình, bạn có thể donate một cốc cafe 1$ qua <a href="https://paypal.me/techup">PayPal</a> :)</p>
 <h4><strong><i class="fas fa-coffee"></i> Top Donators:</strong></h4>
 <ul>
-  <li><a href="https://facebook.com/ndhai1012">Nguyễn Đặng Hải</a> - 2$</li>
-  <li><a href="https://facebook.com/ndhai1012">Nguyễn Đặng Hải</a> - 3$</li>
-  <li><a href="https://facebook.com/ndhai1012">Nguyễn Đặng Hải</a> - 3$</li>
+  <li><a href="#">Một Người Nào Đó</a> - 3$</li>
 </ul>
 <p>Cảm ơn các bạn một lần nữa vì đã quan tâm và ủng hộ dự án này của mình! Nó có ý nghĩa về mặt tinh thần rất lớn đối với mình!</p>
 <h4><strong><i class="fas fa-user-check"></i> Ai tạo ra cái này?</strong></h4>
-<p>Dương Tùng Anh - Coder, Web Designer | Hiện đang học lớp 11 Nga THPT Chuyên Hà Nam.</p>
+<p>Đỗ Minh Hiếu</p>
 <div>
-<button type="button" class="btn btn-info" onclick="location.href='http://facebook.com/tunnaduong';">
-   <i class="fab fa-facebook-square"></i>
-Facebook</button>
-<button type="button" class="btn btn-info" onclick="location.href='http://instagram.com/tunganhduongg';">
-   <i class="fab fa-instagram"></i>
-Instagram</button>
-<button type="button" class="btn btn-info" onclick="location.href='http://twitter.com/tunganh03';">
-  <i class="fab fa-twitter"></i>
-Twitter</button>
-<button type="button" class="btn btn-info" onclick="location.href='http://github.com/tunganh03';">
+<button type="button" class="btn btn-info" onclick="location.href='http://github.com/dominhhieu1405';">
   <i class="fab fa-github"></i>
 GitHub</button>
-<button type="button" class="btn btn-info" onclick="location.href='http://duongtunganh.space';">
-  <i class="fas fa-blog"></i>
-Blog cá nhân</button>
 </div>
 
 <br>
-<h4><strong><i class="fab fa-creative-commons"></i> Tôi có thể tự tạo ra trang web cho lớp mình dựa theo trang web này?</strong></h4>
-<p>Đây là một dự án mã nguồn mở, mọi người được phép tự chỉnh sửa trang web này mà không cần phải xin phép từ tác giả. Mã nguồn của trang web này có thể tìm thấy trên GitHub tại <a href="http://github.com/tunganh03/c4k60-v3">đây</a>. Đừng ngại ngùng mày mò nghiên cứu và thay đổi :P</p>
 
 <!-- START CONTENT -->
-<div id="content"><h4><strong><i class="fas fa-clipboard-check"></i> Những thay đổi</strong></h4>
+<div id="content" style="display:none"><h4><strong><i class="fas fa-clipboard-check"></i> Những thay đổi</strong></h4>
 <h5>Phiên bản 3.5</h5>
 <p>Ngày phát hành: 24/01/2020</p>
 
